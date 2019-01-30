@@ -10,3 +10,6 @@ Rebild of https://github.com/dsbenghe/Novell.Directory.Ldap.NETStandard
 reason:
 Project built on .netcore 2.1 contains package which references one of mentioned above.
 In runtime accurs filenotfoundexception for Novell.Directory.Ldap.NETStandard.dll or one of it depencies
+
+available via nuget:
+https://www.nuget.org/packages/Ldap.NETStandard/
