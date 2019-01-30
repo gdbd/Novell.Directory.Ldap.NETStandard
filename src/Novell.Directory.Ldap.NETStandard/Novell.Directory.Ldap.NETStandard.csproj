@@ -5,9 +5,9 @@
     .NET Standard 2.0 LDAP client library: .NET Core, .NET Framework 4.6. Works with any LDAP server (including Microsoft Active Directory - AD)
     </Description>
     <Summary>.NET Standard LDAP client library</Summary>
-    <VersionPrefix>1.0.2</VersionPrefix>
-    <Authors>Novell;dsbenghe</Authors>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <VersionPrefix>1.0.3</VersionPrefix>
+    <Authors>Novell;dsbenghe;devi_ous</Authors>
+    <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AssemblyName>Ldap.NETStandard</AssemblyName>
     <PackageId>Ldap.NETStandard</PackageId>
